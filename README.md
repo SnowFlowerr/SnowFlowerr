@@ -19,9 +19,9 @@
 <a href="https://codeforces.com/profile/bhudeokrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhudeokrit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhudeokrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhudeokrit" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bhudeo3b3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhudeo3b3a" height="30" width="40" /></a>
-<h1 align="center">Hi 👋, I'm Bhudeo Krit</h1>
 
-- 📫 How to reach me **bhudeokrit@gmail.com**
+
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
