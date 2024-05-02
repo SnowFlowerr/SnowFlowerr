@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bhudeokrit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17YFWzDGYjWbx3oPCWxTIzrgDSriDW5Ok/view?usp=sharing](https://drive.google.com/file/d/17YFWzDGYjWbx3oPCWxTIzrgDSriDW5Ok/view?usp=sharing)
+- 📄 Know about my experiences **https://drive.google.com/file/d/1LCwH01PZI697OQEE3x23LSCln05NHlW4/view**
 
 <br>
 <h3 align="left">Connect with me:</h3>
