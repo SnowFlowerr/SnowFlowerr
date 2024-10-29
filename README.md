@@ -28,7 +28,7 @@
 <br>
 <h3 align="left">Holopin Batches:</h3>
 <br/>
-<p align="left"> <a href="https://holopin.io/@snowflowerr" target="_blank"> <img src="https://holopin.me/@snowflowerr" alt="hacktoberBatch" /> </a></p>
+<p align="left"> <a href="https://holopin.io/@snowflowerr" target="_blank"> <img src="https://holopin.me/snowflowerr" alt="hacktoberBatch" /> </a></p>
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowflowerr&show_icons=true&locale=en&layout=compact" alt="snowflowerr" /></p>
